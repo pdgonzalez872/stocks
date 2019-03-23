@@ -1,21 +1,4 @@
 # Stocks
 
-**TODO: Add description**
-
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `stocks` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:stocks, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/stocks](https://hexdocs.pm/stocks).
-
+Install Elixir (Google) and run `mix deps.get && iex -S mix`. This will fetch
+the dependencies, boot up the app and start a process attached to the runtime.
